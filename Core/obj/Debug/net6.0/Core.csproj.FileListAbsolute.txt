@@ -1,0 +1,24 @@
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\Core\bin\Debug\net6.0\Core.dll
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\Core\obj\Debug\net6.0\Core.dll
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\Core\bin\Debug\net6.0\Core.dll
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\Core\obj\Debug\net6.0\Core.dll
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\Core\obj\Debug\net6.0\ref\Core.dll

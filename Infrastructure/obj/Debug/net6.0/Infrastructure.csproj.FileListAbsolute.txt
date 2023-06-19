@@ -1,0 +1,30 @@
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\Infrastructure\bin\Debug\net6.0\Core.dll
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\Infrastructure\bin\Debug\net6.0\Core.pdb
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CopyComplete
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\Infrastructure\bin\Debug\net6.0\Core.dll
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\Infrastructure\bin\Debug\net6.0\Core.pdb
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CopyComplete
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll

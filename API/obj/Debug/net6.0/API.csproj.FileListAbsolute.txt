@@ -1,0 +1,149 @@
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\bin\Debug\net6.0\appsettings.json
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\bin\Debug\net6.0\API.exe
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\bin\Debug\net6.0\API.deps.json
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\bin\Debug\net6.0\API.runtimeconfig.json
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\bin\Debug\net6.0\API.dll
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\bin\Debug\net6.0\API.pdb
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\obj\Debug\net6.0\API.csproj.CopyComplete
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\obj\Debug\net6.0\API.dll
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\obj\Debug\net6.0\refint\API.dll
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\obj\Debug\net6.0\API.pdb
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\obj\Debug\net6.0\ref\API.dll
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\bin\Debug\net6.0\Core.dll
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\bin\Debug\net6.0\Infrastructure.dll
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\bin\Debug\net6.0\Infrastructure.pdb
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\bin\Debug\net6.0\Core.pdb
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\bin\Debug\net6.0\API.staticwebassets.runtime.json
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\bin\Debug\net6.0\StackExchange.Redis.dll
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\harshitsharma01\Desktop\Exit Test\GroceryStore\API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\bin\Debug\net6.0\appsettings.json
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\bin\Debug\net6.0\API.staticwebassets.runtime.json
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\bin\Debug\net6.0\API.exe
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\bin\Debug\net6.0\API.deps.json
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\bin\Debug\net6.0\API.runtimeconfig.json
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\bin\Debug\net6.0\API.dll
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\bin\Debug\net6.0\API.pdb
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\bin\Debug\net6.0\StackExchange.Redis.dll
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\bin\Debug\net6.0\Core.dll
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\bin\Debug\net6.0\Infrastructure.dll
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\bin\Debug\net6.0\Infrastructure.pdb
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\bin\Debug\net6.0\Core.pdb
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\obj\Debug\net6.0\API.AssemblyInfo.cs
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\obj\Debug\net6.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\obj\Debug\net6.0\staticwebassets\msbuild.build.API.props
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\obj\Debug\net6.0\API.csproj.CopyComplete
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\obj\Debug\net6.0\API.dll
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\obj\Debug\net6.0\refint\API.dll
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\obj\Debug\net6.0\API.pdb
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\obj\Debug\net6.0\API.genruntimeconfig.cache
+C:\Users\aparnajoshi\Desktop\ExitTest\GroceryStore\GroceryStore\api\obj\Debug\net6.0\ref\API.dll

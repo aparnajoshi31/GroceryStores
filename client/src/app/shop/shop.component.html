@@ -1,0 +1,80 @@
+<div class="container">
+  <div class="row" *ngIf="categories.length >0">
+    <section class="col-3" >
+      <h5 class="text-warning ms-3">Sort</h5>
+      <select class="form-select mb-4" style="cursor: pointer;" (change)="onSortSelected($event)">
+        <option  *ngFor="let sort of sortOptions" [value]="sort.value">
+          {{ sort.name }}
+        </option>
+      </select>
+      <h5 class="text-warning ms-3">Categories</h5>
+      <ul class="list-group my-3">
+        <li
+          class="list-group-item"
+          *ngFor="let category of categories"
+          [class.active]="category.id === shopParams.categoryId"
+          [value]="category.id"
+          (click)="onCategorySelected(category.id)"
+          style="cursor: pointer;"
+        >
+          {{ category.name }}
+        </li>
+      </ul>
+    </section>
+
+    <section class="col-9">
+      <div>
+        <div class="d-flex justify-content-between align-items center pb-2">
+          <header>
+            <span>
+              Showing
+              <strong>
+                {{ (shopParams.pageIndex - 1) * shopParams.pageSize + 1 }}-
+                {{
+                  shopParams.pageIndex * shopParams.pageSize > totalCount
+                    ? totalCount
+                    : shopParams.pageIndex * shopParams.pageSize
+                }} </strong
+              >of<strong> 18</strong> results
+            </span>
+          </header>
+          <div class="d-flex mt-2">
+            <input
+            (keyup.enter)="onSearch()"
+              type="text"
+              placeholder=" Search"
+              class="form-control me-2"
+              #search
+            />
+            <button (click)="onSearch()" class="btn btn-outline-primary mx-2">Search</button>
+
+            <button (click)="onReset()" class="btn btn-outline-success">Reset</button>
+          </div>
+        </div>
+      </div>
+
+      <div class="row row-cols-3 g-3 mb-3">
+        <div class="col" *ngFor="let product of products">
+          <app-product-item [product]="product"></app-product-item>
+        </div>
+      </div>
+      <div class="d-flex justify-content-center">
+        <pagination 
+            [boundaryLinks]="true" 
+            [totalItems]="totalCount"
+            [itemsPerPage]="shopParams.pageSize"
+            [maxSize]="10"
+            (pageChanged)="onPageChanged($event)"
+            previousText="&lsaquo;" nextText="&rsaquo;" 
+            firstText="&laquo;" 
+            lastText="&raquo;">
+ 
+        </pagination>
+        <!--[totalItems]="totalCount"  
+          [itemsPerPage]="shopParams.pageSize"
+             [maxSize]="10"
+             (pageChanged)="onPageChanged($event)" -->
+      </div>
+    </section>
+  </div>
+</div>

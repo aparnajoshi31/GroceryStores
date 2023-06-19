@@ -1,0 +1,158 @@
+[
+  {
+    "Name": "Tomato Ketchup",
+    "Description": " Quantity - 1L",
+    "Price": 98,
+    "ImageUrl": "images/products/ketchup1.jpeg",
+    "ProductCategoryID": 1,
+    "AvailableQuantity": 15,
+    "Discount": 1.3,
+    "Specification": "This fresh Tomato Ketchup is made with 100% real, naturally ripened Tomatoes."
+  },
+  {
+    "Name": "Real Mixed fruit Juice",
+    "Description": "1L of Real Mixed Fruit is as rich and flavorful as any other concentrated juice.",
+    "Price": 150,
+    "ImageUrl": "images/products/mixjuice.jpeg",
+    "ProductCategoryID": 3,
+    "AvailableQuantity": 15,
+    "Discount": 0,
+    "Specification": "rich and flavorful as any other concentrated juice."
+  },
+  {
+    "Name": "Pringles Desi Masala Tadka Chips",
+    "Description": "Kellogg's Pringles Desi Masala Tadka, 107 g",
+    "Price": 60,
+    "ImageUrl": "images/products/pringles.jpg",
+    "ProductCategoryID": 1,
+    "AvailableQuantity": 15,
+    "Discount": 0,
+    "Specification": "rich and flavorful as any other concentrated juice."
+  },
+  {
+    "Name": "Parle Hide and Seek Chocolate Chip Cookies ",
+    "Description": "Classic chocolate chip premium cookies,This is vegetarian product,200g",
+    "Price": 105,
+    "ImageUrl": "images/products/HideSeek.jpeg",
+    "ProductCategoryID": 4,
+    "AvailableQuantity": 15,
+    "Discount": 0,
+    "Specification": "rich and flavorful as any other concentrated juice."
+  },
+  {
+    "Name": "Amul Kool Milk - Kesar Flavour, 180 ml Pet Bottle",
+    "Description": "Amul Kool Kesar is refreshing milk with taste of Saffron (Kesar).",
+    "Price": 25,
+    "ImageUrl": "images/products/amulkool.jpeg",
+    "ProductCategoryID": 2,
+    "AvailableQuantity": 15,
+    "Discount": 0,
+    "Specification": "It is an easy to use delicious drink that refreshes you immediately with goodness of milk."
+
+    
+  },
+  {
+    "Name": "Lettuce - Green, 100 g (Bunch)",
+    "Description": "Amul Kool Kesar is refreshing milk with taste of Saffron (Kesar). ",
+    "Price": 12,
+    "ImageUrl": "images/products/lettuce.jpeg",
+    "ProductCategoryID": 5,
+    "AvailableQuantity": 15,
+    "Discount": 0,
+    "Specification": "It is an easy to use delicious drink that refreshes you immediately with goodness of milk."
+
+  },
+
+  {
+    "Name": "Tomato - Local, 1 kg",
+    "Description": "Local tomatoes are partly sour and partly sweet and contain many seeds inside which are edible. ",
+    "Price": 30.91,
+    "ImageUrl": "images/products/tomato.jpeg",
+    "ProductCategoryID": 5,
+    "AvailableQuantity": 15,
+    "Discount": 0,
+    "Specification": "rich and flavorful as any other concentrated juice."
+
+  },
+  {
+    "Name": "Amul Processed Cheese Chiplets Cubes, 200 g (8 Cubes)",
+    "Description": "Local tomatoes are partly sour and partly sweet and contain many seeds inside which are edible. ",
+    "Price": 30.91,
+    "ImageUrl": "images/products/cheese.jpeg",
+    "ProductCategoryID": 2,
+    "AvailableQuantity": 15,
+    "Discount": 0,
+    "Specification": "rich and flavorful as any other concentrated juice."
+
+  },
+  {
+    "Name": "Hersheys Kisses - Milk Chocolate + Almonds Chocolate + Cookies 'n' Creme White Chocolate, Combo",
+    "Description": "Kisses - Milk Chocolate: For over 100 years",
+    "Price": 139.91,
+    "ImageUrl": "images/products/hersheys.jpeg",
+    "ProductCategoryID": 4,
+    "AvailableQuantity": 15,
+    "Discount": 0,
+    "Specification": "The iconic Hersheys Kisses chocolates have been spreading happiness across the world."
+
+  },
+  {
+    "Name": "Coco-Cola",
+    "Description": "Coca-Cola is the most popular and biggest-selling soft drink in history, as well as the best-known brand in the world.",
+    "ProductCategoryID": 3,
+    "AvailableQuantity": 15,
+    "ImageUrl": "images/products/cococola.jpg",
+    "Price": 95,
+    "Discount": 5,
+    "Specification" : "Quantity - 1 l,Expiry - 3 Days after opening"
+  },
+  {
+    "Name": "Catch Shikanji Masala",
+    "Description": "Catch Shikanji masala is made from natural spring water. It is a truly refreshing way to beat the heat. Shikanji /Shikanjavi is an Indian lemonade .",
+    "ProductCategoryID": 3,
+    "AvailableQuantity": 15,
+    "ImageUrl": "images/products/Catch.jpeg",
+    "Price": 10,
+    "Discount": 1,
+    "Specification" : "Quantity - 200 ml,Expiry - 3 Days after opening"
+  },
+  {
+    "Name": "Lays- Potato Chips",
+    "Description": "When it comes to great taste, simplicity is key and Lays Classic Salted Potato Chips is here to prove it It all starts with the highest quality farm-grown potatoes, cooked to crunchy perfection and sprinkled with microlite salt.",
+    "ProductCategoryID": 4,
+    "AvailableQuantity": 30,
+    "ImageUrl": "images/products/Lays.jpeg",
+    "Price": 20,
+    "Discount": 1,
+    "Specification" : "Weight - 40 g,Expiry - 2 Days after opening"
+  },
+  {
+    "Name": "Aloo Bhujia",
+    "Description": "Bikaneri Aloo Bhujia Is Prepared From Potatoes And Special Spice, This Snack Has A Nice Highly Spiced Flavour. The Tastes Enormous With Any Food You Have. ",
+    "ProductCategoryID": 1,
+    "AvailableQuantity": 15,
+    "ImageUrl": "images/products/aalobhujia.jpg",
+    "Price": 55,
+    "Discount": 1,
+    "Specification" : "Weight - 200g ,Expiry - 3 Days after opening"
+  },
+  {
+    "Name": "Eggs",
+    "Description": "Eggs are one of the common food items in most of the households. From breakfast to dinner, eggs are indulged in various ways. Poached, boiled, fried; we all have our own favourite choices. ",
+    "ProductCategoryID": 2,
+    "AvailableQuantity": 15,
+    "ImageUrl": "images/products/eggs.jpg",
+    "Price": 229,
+    "Discount": 2,
+    "Specification" : "Quantity - 30 pcs,Expiry - 1 Days "
+  },{
+    "Name": "Amul - Fresh Toned Milk",
+    "Description": "Amul Taaza fresh toned milk is an excellent quality milk from Gujarat. It can be consumed directly from the pack. No need to boil, it has virtually zero bacteria. No need to refrigerate till open.",
+    "ProductCategoryID": 2,
+    "Quantity": 10,
+    "ImageUrl": "images/products/Milk.jpeg",
+    "Price": 32,
+    "Discount": 5,
+    "Specification" : "Weight - 1 Packet,Expiry - 2 Days"
+  }
+]
